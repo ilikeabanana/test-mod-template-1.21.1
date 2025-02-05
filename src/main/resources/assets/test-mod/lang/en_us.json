@@ -1,0 +1,21 @@
+{
+  "item.test-mod.pink_garnet": "Pink Garnet",
+  "item.test-mod.raw_pink_garnet": "Raw Pink Garnet",
+  "item.test-mod.chisel": "Chisel",
+  "item.test-mod.cauliflower": "Cauliflower",
+  "item.test-mod.starlight_ashes": "Starlight Ashes",
+
+  "block.test-mod.pink_garnet_block": "Block of Pink Garnet",
+  "block.test-mod.raw_pink_garnet_block": "Block of Raw Pink Garnet",
+  "block.test-mod.pink_garnet_ore": "Pink Garnet Ore",
+  "block.test-mod.pink_garnet_deepslate_ore": "Pink Garnet Deepslate Ore",
+  "block.test-mod.magic_block": "Magic Block",
+
+  "item-group.test-mod.pink_garnet_items": "Pink Garnet Items",
+  "item-group.test-mod.pink_garnet_blocks": "Pink Garnet Blocks",
+
+  "tooltip.test-mod.magic_block.tooltip": "This block is very very §9MAGICAL§r :O",
+  "tooltip.test-mod.cauliflower.tooltip": "This is yummy",
+  "tooltip.test-mod.chisel.shift_down": "This item Chisels blocks into Bricks!",
+  "tooltip.test-mod.chisel": "Press §eShift§r for more information!"
+}
